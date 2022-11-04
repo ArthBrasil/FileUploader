@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.30671c33.css","mappings":"AACA,KACE,uEAEF,CCAA,IACE,UAAW,CAEX,gBAAkB,CADlB,SAEF","sources":["index.css","App.css"],"sourcesContent":["\ncode {\n  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',\n    monospace;\n}\n\n\n","\n\n\n\nimg {\n  height: 3em;\n  width: 5em;\n  object-fit: cover ;\n}"],"names":[],"sourceRoot":""}
